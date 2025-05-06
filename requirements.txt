@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio
+transformers
+requests
+msal
+pandas
+streamlit
