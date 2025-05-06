@@ -1,1 +1,0 @@
-Power BI dashboard tracks API usage, cohort retention, and feature adoption using real-time event streams from Azure.
