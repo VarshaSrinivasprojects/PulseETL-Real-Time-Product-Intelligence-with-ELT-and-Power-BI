@@ -1,1 +1,0 @@
-Configured Airbyte to extract REST API data in real time using HTTP connectors with custom rate limits and pagination.
